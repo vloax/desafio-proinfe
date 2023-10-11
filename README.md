@@ -8,7 +8,6 @@ Cadastro e Listagem de funcionários utilizando React
 Instale o desafio usando NPM e NODE
 
 ```bash
-  npm init -y
   npm install 
     
 ```
